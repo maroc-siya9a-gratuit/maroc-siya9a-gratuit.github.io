@@ -44,7 +44,7 @@
 حلّ [Issue جديد](https://github.com/maroc-siya9a-gratuit/maroc-siya9a-gratuit.github.io/issues/new) وكتب فيه رقم السلسلة والسؤال، وشنو هو الغلط. غادي يتصلح فأقرب وقت.
 
 ### ملاحظة مهمة
-هاد المحتوى تعليمي ومجموع من مصادر عامة. **ماشي موقع رسمي**، وما عندو حتى علاقة بالإدارة. إلا كنتي مولا شي محتوى هنا وبغيتيه يتحيّد، حلّ Issue وغادي يتحيّد.
+هاد المحتوى تعليمي ومجموع من مصادر عامة. **ماشي موقع رسمي**، وما عندو حتى علاقة بالإدارة.
 
 </div>
 
@@ -92,4 +92,4 @@ Pages load only their own media, so a phone on mobile data never downloads more 
 Open an [issue](https://github.com/maroc-siya9a-gratuit/maroc-siya9a-gratuit.github.io/issues/new) with the series and question number and what is wrong.
 
 ### Disclaimer
-Educational content collected from public sources. **This is not an official website** and it is not affiliated with any authority. If you own any content here and want it removed, open an issue and it will be taken down.
+Educational content collected from public sources. **This is not an official website** and it is not affiliated with any authority.
