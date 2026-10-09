@@ -1,0 +1,13 @@
+@font-face{font-family:TheSans;src:url(fonts/TheSans-Regular.ttf)}
+@font-face{font-family:TheSans;font-weight:bold;src:url(fonts/TheSans-Bold.otf)}
+:root{--bg:#fff;--fg:#111;--dim:#555;--line:#ddd;--ok:#0a7d32}
+@media(prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--dim:#aaa;--line:#333;--ok:#4cc46f}}
+body{margin:0 auto;max-width:900px;padding:16px;background:var(--bg);color:var(--fg);
+font:17px/1.7 TheSans,Tahoma,sans-serif}
+a{color:inherit}h1{font-size:1.6em}h2{font-size:1.2em;margin:0 0 8px}
+.item{border-top:1px solid var(--line);padding:20px 0}
+img{max-width:100%;height:auto;display:block;margin:8px 0}
+audio{width:100%;max-width:420px;margin:4px 0}
+.ok{color:var(--ok);font-weight:bold}.dim{color:var(--dim)}
+nav{display:flex;justify-content:space-between;gap:12px;margin:16px 0}
+ul.grid{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
