@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maroc-siya9a-gratuit.github.io/sitemap.xml
